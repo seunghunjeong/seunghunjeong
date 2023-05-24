@@ -1,7 +1,7 @@
 
 # ▎About
 - Jung SeungHoon
-- email : todtkddj@gmail.com
+- Email : todtkddj@gmail.com
 
 # ▎Tech Stacks
 - Front-end : <span><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
